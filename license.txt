@@ -1,0 +1,12 @@
+Fringe Projection Simulator
+http://www.fringesimulator.com
+==================================
+
+License agreement
+
+The Fringe Projection Simulator is provided under GPL v.3 license, which exact definition
+may be found in gpl.txt file provided with the Simulator or on the
+next web page: http://www.gnu.org/licenses/gpl.html
+
+Copyright © Fringe Projection Simulator, 2013
+info@fringesimulator.com
