@@ -1,0 +1,810 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.10.20)  24 OCT 2013 14:42
+entering extended mode
+**Manual.tex
+("F:\DOCUMENTS\Onderzoeksprojecten\Software\FPS 2013\Manual\Manual.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks20
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("F:\DOCUMENTS\Onderzoeksprojecten\Software\FPS 2013\Manual\Manual.aux"
+
+LaTeX Warning: Label `fig:xlocationbeamer' multiply defined.
+
+
+LaTeX Warning: Label `fig:ylocationbeamer' multiply defined.
+
+
+LaTeX Warning: Label `sec:Show' multiply defined.
+
+
+LaTeX Warning: Label `sec:Show' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen122
+\scratchbox=\box28
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen123
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks22
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Missing character: There is no é in font cmr10!
+
+<Graphics/MoireGrating.jpg, id=1, 702.37407pt x 396.7322pt>
+File: Graphics/MoireGrating.jpg Graphic file (type jpg)
+
+<use Graphics/MoireGrating.jpg>
+Package pdftex.def Info: Graphics/MoireGrating.jpg used on input line 31.
+(pdftex.def)             Requested size: 387.00153pt x 218.6029pt.
+
+<Graphics/intro/Startupscreen.png, id=2, 787.44188pt x 532.23843pt>
+File: Graphics/intro/Startupscreen.png Graphic file (type png)
+
+<use Graphics/intro/Startupscreen.png>
+Package pdftex.def Info: Graphics/intro/Startupscreen.png used on input line 41
+.
+(pdftex.def)             Requested size: 430.00462pt x 290.63673pt.
+
+<Graphics/intro/StartupscreenWITHINFO.png, id=3, 1029.09468pt x 583.42969pt>
+File: Graphics/intro/StartupscreenWITHINFO.png Graphic file (type png)
+
+<use Graphics/intro/StartupscreenWITHINFO.png>
+Package pdftex.def Info: Graphics/intro/StartupscreenWITHINFO.png used on input
+ line 49.
+(pdftex.def)             Requested size: 430.00462pt x 243.78355pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <F:/DOCUMENTS/Onderzoe
+ksprojecten/Software/FPS 2013/Manual/Graphics/MoireGrating.jpg>] [3 <F:/DOCUMEN
+TS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/intro/Startupscreen.pn
+g>]
+<Graphics/Beamer/File.png, id=19, 785.93625pt x 532.99126pt>
+File: Graphics/Beamer/File.png Graphic file (type png)
+
+<use Graphics/Beamer/File.png>
+Package pdftex.def Info: Graphics/Beamer/File.png used on input line 84.
+(pdftex.def)             Requested size: 322.50346pt x 218.71487pt.
+ [4 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/intro/S
+tartupscreenWITHINFO.png>]
+<Graphics/beamer/settings.png, id=24, 956.82469pt x 659.46375pt>
+File: Graphics/beamer/settings.png Graphic file (type png)
+
+<use Graphics/beamer/settings.png>
+Package pdftex.def Info: Graphics/beamer/settings.png used on input line 101.
+(pdftex.def)             Requested size: 430.00462pt x 296.3635pt.
+
+<Graphics/beamer/resolution.png, id=25, 786.68906pt x 532.99126pt>
+File: Graphics/beamer/resolution.png Graphic file (type png)
+
+<use Graphics/beamer/resolution.png>
+Package pdftex.def Info: Graphics/beamer/resolution.png used on input line 110.
+
+(pdftex.def)             Requested size: 430.00462pt x 291.34062pt.
+
+<Graphics/beamer/beamersettings.png, id=26, 789.70032pt x 532.23843pt>
+File: Graphics/beamer/beamersettings.png Graphic file (type png)
+
+<use Graphics/beamer/beamersettings.png>
+Package pdftex.def Info: Graphics/beamer/beamersettings.png used on input line 
+122.
+(pdftex.def)             Requested size: 322.50346pt x 217.3583pt.
+
+<Graphics/beamer/xlocationbeamer.png, id=27, 788.9475pt x 537.50812pt>
+File: Graphics/beamer/xlocationbeamer.png Graphic file (type png)
+
+<use Graphics/beamer/xlocationbeamer.png>
+Package pdftex.def Info: Graphics/beamer/xlocationbeamer.png used on input line
+ 133.
+(pdftex.def)             Requested size: 430.00462pt x 292.95662pt.
+
+<Graphics/beamer/ylocationbeamer.png, id=28, 788.19469pt x 533.74406pt>
+File: Graphics/beamer/ylocationbeamer.png Graphic file (type png)
+
+<use Graphics/beamer/ylocationbeamer.png>
+Package pdftex.def Info: Graphics/beamer/ylocationbeamer.png used on input line
+ 140.
+(pdftex.def)             Requested size: 430.00462pt x 291.182pt.
+ [5 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/Beamer/
+File.png>] [6 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphi
+cs/beamer/settings.png>] [7 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013
+/Manual/Graphics/beamer/resolution.png>] <Graphics/beamer/beamerangle.png, id=3
+9, 786.68906pt x 533.74406pt>
+File: Graphics/beamer/beamerangle.png Graphic file (type png)
+
+<use Graphics/beamer/beamerangle.png>
+Package pdftex.def Info: Graphics/beamer/beamerangle.png used on input line 156
+.
+(pdftex.def)             Requested size: 430.00462pt x 291.7521pt.
+
+<Graphics/beamer/fov.png, id=40, 423.5825pt x 636.3775pt>
+File: Graphics/beamer/fov.png Graphic file (type png)
+
+<use Graphics/beamer/fov.png>
+Package pdftex.def Info: Graphics/beamer/fov.png used on input line 169.
+(pdftex.def)             Requested size: 365.50655pt x 549.14807pt.
+
+
+LaTeX Warning: Float too large for page by 16.61595pt on input line 172.
+
+<Graphics/beamer/ratio.png, id=41, 489.32813pt x 283.0575pt>
+File: Graphics/beamer/ratio.png Graphic file (type png)
+
+<use Graphics/beamer/ratio.png>
+Package pdftex.def Info: Graphics/beamer/ratio.png used on input line 182.
+(pdftex.def)             Requested size: 365.50655pt x 211.43741pt.
+ [8 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/beamer/
+beamersettings.png>] [9 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Man
+ual/Graphics/beamer/xlocationbeamer.png>]
+[10 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/beamer/
+ylocationbeamer.png>] [11 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/M
+anual/Graphics/beamer/beamerangle.png>] [12 <F:/DOCUMENTS/Onderzoeksprojecten/S
+oftware/FPS 2013/Manual/Graphics/beamer/fov.png>]
+<Graphics/beamer/image001.png, id=58, 602.25pt x 451.6875pt>
+File: Graphics/beamer/image001.png Graphic file (type png)
+
+<use Graphics/beamer/image001.png>
+Package pdftex.def Info: Graphics/beamer/image001.png used on input line 192.
+(pdftex.def)             Requested size: 365.50655pt x 274.13675pt.
+
+<Graphics/beamer/showbeamersettings.png, id=59, 787.44188pt x 532.99126pt>
+File: Graphics/beamer/showbeamersettings.png Graphic file (type png)
+
+<use Graphics/beamer/showbeamersettings.png>
+Package pdftex.def Info: Graphics/beamer/showbeamersettings.png used on input l
+ine 202.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+
+<Graphics/camera/camerasettings.png, id=60, 787.44188pt x 534.49687pt>
+File: Graphics/camera/camerasettings.png Graphic file (type png)
+
+<use Graphics/camera/camerasettings.png>
+Package pdftex.def Info: Graphics/camera/camerasettings.png used on input line 
+211.
+(pdftex.def)             Requested size: 365.50655pt x 248.0899pt.
+
+<Graphics/camera/xlocationcamera.png, id=61, 787.44188pt x 532.99126pt>
+File: Graphics/camera/xlocationcamera.png Graphic file (type png)
+
+<use Graphics/camera/xlocationcamera.png>
+Package pdftex.def Info: Graphics/camera/xlocationcamera.png used on input line
+ 221.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+
+<Graphics/camera/ylocationcamera.png, id=62, 788.19469pt x 535.2497pt>
+File: Graphics/camera/ylocationcamera.png Graphic file (type png)
+
+<use Graphics/camera/ylocationcamera.png>
+Package pdftex.def Info: Graphics/camera/ylocationcamera.png used on input line
+ 228.
+(pdftex.def)             Requested size: 365.50655pt x 248.21065pt.
+ [13 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/beamer
+/ratio.png>] [14 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Gra
+phics/beamer/image001.png>] [15 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 
+2013/Manual/Graphics/beamer/showbeamersettings.png> <F:/DOCUMENTS/Onderzoekspro
+jecten/Software/FPS 2013/Manual/Graphics/camera/camerasettings.png>] [16 <F:/DO
+CUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/camera/xlocationc
+amera.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/
+camera/ylocationcamera.png>]
+<Graphics/camera/camerafov.png, id=77, 788.9475pt x 533.74406pt>
+File: Graphics/camera/camerafov.png Graphic file (type png)
+
+<use Graphics/camera/camerafov.png>
+Package pdftex.def Info: Graphics/camera/camerafov.png used on input line 247.
+(pdftex.def)             Requested size: 365.50655pt x 247.27626pt.
+
+<Graphics/camera/aspectratiocamera.png, id=78, 786.68906pt x 533.74406pt>
+File: Graphics/camera/aspectratiocamera.png Graphic file (type png)
+
+<use Graphics/camera/aspectratiocamera.png>
+Package pdftex.def Info: Graphics/camera/aspectratiocamera.png used on input li
+ne 256.
+(pdftex.def)             Requested size: 365.50655pt x 247.99295pt.
+
+<Graphics/camera/nearplane.png, id=79, 786.68906pt x 532.99126pt>
+File: Graphics/camera/nearplane.png Graphic file (type png)
+
+<use Graphics/camera/nearplane.png>
+Package pdftex.def Info: Graphics/camera/nearplane.png used on input line 265.
+(pdftex.def)             Requested size: 365.50655pt x 247.64319pt.
+
+<Graphics/camera/farplane.png, id=80, 786.68906pt x 531.48563pt>
+File: Graphics/camera/farplane.png Graphic file (type png)
+
+<use Graphics/camera/farplane.png>
+Package pdftex.def Info: Graphics/camera/farplane.png used on input line 275.
+(pdftex.def)             Requested size: 365.50655pt x 246.94362pt.
+
+<Graphics/camera/showsettingscamera.png, id=81, 785.93625pt x 533.74406pt>
+File: Graphics/camera/showsettingscamera.png Graphic file (type png)
+
+<use Graphics/camera/showsettingscamera.png>
+Package pdftex.def Info: Graphics/camera/showsettingscamera.png used on input l
+ine 284.
+(pdftex.def)             Requested size: 430.00462pt x 292.029pt.
+ [17 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/camera
+/camerafov.png>] [18 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual
+/Graphics/camera/aspectratiocamera.png> <F:/DOCUMENTS/Onderzoeksprojecten/Softw
+are/FPS 2013/Manual/Graphics/camera/nearplane.png>]
+<Graphics/Grating/grating.png, id=88, 790.45313pt x 533.74406pt>
+File: Graphics/Grating/grating.png Graphic file (type png)
+
+<use Graphics/Grating/grating.png>
+Package pdftex.def Info: Graphics/Grating/grating.png used on input line 293.
+(pdftex.def)             Requested size: 365.50655pt x 246.8039pt.
+
+<Graphics/Grating/showgratingsettings.png, id=89, 788.19469pt x 534.49687pt>
+File: Graphics/Grating/showgratingsettings.png Graphic file (type png)
+
+<use Graphics/Grating/showgratingsettings.png>
+Package pdftex.def Info: Graphics/Grating/showgratingsettings.png used on input
+ line 302.
+(pdftex.def)             Requested size: 365.50655pt x 247.86154pt.
+
+<Graphics/EnableDisableShader/enableshader.png, id=90, 790.45313pt x 535.2497pt
+>
+File: Graphics/EnableDisableShader/enableshader.png Graphic file (type png)
+ <use Graphics/EnableDisableShader/enableshader.png>
+Package pdftex.def Info: Graphics/EnableDisableShader/enableshader.png used on 
+input line 311.
+(pdftex.def)             Requested size: 365.50655pt x 247.50009pt.
+
+<Graphics/EnableDisableShader/shaderenabled.png, id=91, 789.70032pt x 532.99126
+pt>
+File: Graphics/EnableDisableShader/shaderenabled.png Graphic file (type png)
+ <use Graphics/EnableDisableShader/shaderenabled.png>
+Package pdftex.def Info: Graphics/EnableDisableShader/shaderenabled.png used on
+ input line 319.
+(pdftex.def)             Requested size: 365.50655pt x 246.69165pt.
+
+<Graphics/EnableDisableShader/disableshader.png, id=92, 788.19469pt x 536.0025p
+t>
+File: Graphics/EnableDisableShader/disableshader.png Graphic file (type png)
+ <use Graphics/EnableDisableShader/disableshader.png>
+Package pdftex.def Info: Graphics/EnableDisableShader/disableshader.png used on
+ input line 328.
+(pdftex.def)             Requested size: 365.50655pt x 248.55975pt.
+
+<Graphics/EnableDisableShader/inactiveshader.png, id=93, 786.68906pt x 536.7553
+1pt>
+File: Graphics/EnableDisableShader/inactiveshader.png Graphic file (type png)
+ <use Graphics/EnableDisableShader/inactiveshader.png>
+Package pdftex.def Info: Graphics/EnableDisableShader/inactiveshader.png used o
+n input line 336.
+(pdftex.def)             Requested size: 365.50655pt x 249.39206pt.
+
+<Graphics/SetShader/setshader.png, id=94, 787.44188pt x 532.23843pt>
+File: Graphics/SetShader/setshader.png Graphic file (type png)
+
+<use Graphics/SetShader/setshader.png>
+Package pdftex.def Info: Graphics/SetShader/setshader.png used on input line 34
+7.
+(pdftex.def)             Requested size: 365.50655pt x 247.04164pt.
+
+<Graphics/SetShader/vertexshader.png, id=95, 787.44188pt x 532.99126pt>
+File: Graphics/SetShader/vertexshader.png Graphic file (type png)
+
+<use Graphics/SetShader/vertexshader.png>
+Package pdftex.def Info: Graphics/SetShader/vertexshader.png used on input line
+ 357.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+ [19 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/camera
+/farplane.png>] [20 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/
+Graphics/camera/showsettingscamera.png>] [21 <F:/DOCUMENTS/Onderzoeksprojecten/
+Software/FPS 2013/Manual/Graphics/Grating/grating.png> <F:/DOCUMENTS/Onderzoeks
+projecten/Software/FPS 2013/Manual/Graphics/Grating/showgratingsettings.png>] [
+22 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/EnableDi
+sableShader/enableshader.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 20
+13/Manual/Graphics/EnableDisableShader/shaderenabled.png>] [23 <F:/DOCUMENTS/On
+derzoeksprojecten/Software/FPS 2013/Manual/Graphics/EnableDisableShader/disable
+shader.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics
+/EnableDisableShader/inactiveshader.png>] <Graphics/SetShader/fragmentshader.pn
+g, id=112, 788.9475pt x 535.2497pt>
+File: Graphics/SetShader/fragmentshader.png Graphic file (type png)
+
+<use Graphics/SetShader/fragmentshader.png>
+Package pdftex.def Info: Graphics/SetShader/fragmentshader.png used on input li
+ne 368.
+(pdftex.def)             Requested size: 365.50655pt x 247.9738pt.
+
+<Graphics/Saving/saving.png, id=113, 788.9475pt x 535.2497pt>
+File: Graphics/Saving/saving.png Graphic file (type png)
+
+<use Graphics/Saving/saving.png>
+Package pdftex.def Info: Graphics/Saving/saving.png used on input line 380.
+(pdftex.def)             Requested size: 365.50655pt x 247.9738pt.
+
+<Graphics/Saving/enablesaving.png, id=114, 787.44188pt x 534.49687pt>
+File: Graphics/Saving/enablesaving.png Graphic file (type png)
+
+<use Graphics/Saving/enablesaving.png>
+Package pdftex.def Info: Graphics/Saving/enablesaving.png used on input line 38
+9.
+(pdftex.def)             Requested size: 365.50655pt x 248.0899pt.
+
+<Graphics/Measurement/measurementsettings.png, id=115, 787.44188pt x 533.74406p
+t>
+File: Graphics/Measurement/measurementsettings.png Graphic file (type png)
+ <use Graphics/Measurement/measurementsettings.png>
+Package pdftex.def Info: Graphics/Measurement/measurementsettings.png used on i
+nput line 398.
+(pdftex.def)             Requested size: 365.50655pt x 247.74048pt.
+
+<Graphics/Measurement/20.png, id=116, 788.19469pt x 532.99126pt>
+File: Graphics/Measurement/20.png Graphic file (type png)
+
+<use Graphics/Measurement/20.png>
+Package pdftex.def Info: Graphics/Measurement/20.png used on input line 408.
+(pdftex.def)             Requested size: 365.50655pt x 247.16335pt.
+File: Graphics/Measurement/20.png Graphic file (type png)
+ <use Graphics/Measurement/20.png>
+Package pdftex.def Info: Graphics/Measurement/20.png used on input line 417.
+(pdftex.def)             Requested size: 365.50655pt x 247.16335pt.
+
+<Graphics/Measurement/250.png, id=117, 786.68906pt x 530.73282pt>
+File: Graphics/Measurement/250.png Graphic file (type png)
+
+<use Graphics/Measurement/250.png>
+Package pdftex.def Info: Graphics/Measurement/250.png used on input line 429.
+(pdftex.def)             Requested size: 365.50655pt x 246.59384pt.
+ [24 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/SetSha
+der/setshader.png>] [25 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Man
+ual/Graphics/SetShader/vertexshader.png> <F:/DOCUMENTS/Onderzoeksprojecten/Soft
+ware/FPS 2013/Manual/Graphics/SetShader/fragmentshader.png>] [26 <F:/DOCUMENTS/
+Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/Saving/saving.png> <F:/DO
+CUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/Saving/enablesavi
+ng.png>] [27 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphic
+s/Measurement/measurementsettings.png> <F:/DOCUMENTS/Onderzoeksprojecten/Softwa
+re/FPS 2013/Manual/Graphics/Measurement/20.png>] [28 <F:/DOCUMENTS/Onderzoekspr
+ojecten/Software/FPS 2013/Manual/Graphics/Measurement/250.png>]
+<Graphics/Phaseshift/phaseshift.png, id=134, 786.68906pt x 535.2497pt>
+File: Graphics/Phaseshift/phaseshift.png Graphic file (type png)
+
+<use Graphics/Phaseshift/phaseshift.png>
+Package pdftex.def Info: Graphics/Phaseshift/phaseshift.png used on input line 
+440.
+(pdftex.def)             Requested size: 365.50655pt x 248.69252pt.
+
+<Graphics/Phaseshift/phaseshiftpi2.png, id=135, 786.68906pt x 538.26094pt>
+File: Graphics/Phaseshift/phaseshiftpi2.png Graphic file (type png)
+
+<use Graphics/Phaseshift/phaseshiftpi2.png>
+Package pdftex.def Info: Graphics/Phaseshift/phaseshiftpi2.png used on input li
+ne 451.
+(pdftex.def)             Requested size: 365.50655pt x 250.09163pt.
+
+<Graphics/Save/takesingleshot.png, id=136, 787.44188pt x 532.23843pt>
+File: Graphics/Save/takesingleshot.png Graphic file (type png)
+
+<use Graphics/Save/takesingleshot.png>
+Package pdftex.def Info: Graphics/Save/takesingleshot.png used on input line 46
+4.
+(pdftex.def)             Requested size: 365.50655pt x 247.04164pt.
+
+<Graphics/moire/moire.png, id=137, 789.70032pt x 535.2497pt>
+File: Graphics/moire/moire.png Graphic file (type png)
+
+<use Graphics/moire/moire.png>
+Package pdftex.def Info: Graphics/moire/moire.png used on input line 473.
+(pdftex.def)             Requested size: 365.50655pt x 247.73695pt.
+
+<Graphics/moire/moireenabled.png, id=138, 788.9475pt x 534.49687pt>
+File: Graphics/moire/moireenabled.png Graphic file (type png)
+
+<use Graphics/moire/moireenabled.png>
+Package pdftex.def Info: Graphics/moire/moireenabled.png used on input line 483
+.
+(pdftex.def)             Requested size: 365.50655pt x 247.62503pt.
+
+<Graphics/moire/moireenabledandshader.png, id=139, 787.44188pt x 532.99126pt>
+File: Graphics/moire/moireenabledandshader.png Graphic file (type png)
+
+<use Graphics/moire/moireenabledandshader.png>
+Package pdftex.def Info: Graphics/moire/moireenabledandshader.png used on input
+ line 492.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+ [29 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/Phases
+hift/phaseshift.png>] [30 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/M
+anual/Graphics/Phaseshift/phaseshiftpi2.png> <F:/DOCUMENTS/Onderzoeksprojecten/
+Software/FPS 2013/Manual/Graphics/Save/takesingleshot.png>]
+<Graphics/moire/xgrating.png, id=146, 785.93625pt x 532.99126pt>
+File: Graphics/moire/xgrating.png Graphic file (type png)
+
+<use Graphics/moire/xgrating.png>
+Package pdftex.def Info: Graphics/moire/xgrating.png used on input line 503.
+(pdftex.def)             Requested size: 365.50655pt x 247.87903pt.
+
+<Graphics/moire/xgrating2.png, id=147, 787.44188pt x 532.23843pt>
+File: Graphics/moire/xgrating2.png Graphic file (type png)
+
+<use Graphics/moire/xgrating2.png>
+Package pdftex.def Info: Graphics/moire/xgrating2.png used on input line 512.
+(pdftex.def)             Requested size: 365.50655pt x 247.04164pt.
+
+<Graphics/moire/gratingpoints.png, id=148, 392.21532pt x 272.51813pt>
+File: Graphics/moire/gratingpoints.png Graphic file (type png)
+
+<use Graphics/moire/gratingpoints.png>
+Package pdftex.def Info: Graphics/moire/gratingpoints.png used on input line 52
+0.
+(pdftex.def)             Requested size: 365.50655pt x 253.97565pt.
+
+<Graphics/moire/gratingresolution.png, id=149, 787.44188pt x 535.2497pt>
+File: Graphics/moire/gratingresolution.png Graphic file (type png)
+
+<use Graphics/moire/gratingresolution.png>
+Package pdftex.def Info: Graphics/moire/gratingresolution.png used on input lin
+e 530.
+(pdftex.def)             Requested size: 365.50655pt x 248.43933pt.
+
+<Graphics/moire/gratingresolutionlow.png, id=150, 789.70032pt x 534.49687pt>
+File: Graphics/moire/gratingresolutionlow.png Graphic file (type png)
+
+<use Graphics/moire/gratingresolutionlow.png>
+Package pdftex.def Info: Graphics/moire/gratingresolutionlow.png used on input 
+line 539.
+(pdftex.def)             Requested size: 365.50655pt x 247.3885pt.
+
+<Graphics/moire/gratingfrequency.png, id=151, 788.19469pt x 533.74406pt>
+File: Graphics/moire/gratingfrequency.png Graphic file (type png)
+
+<use Graphics/moire/gratingfrequency.png>
+Package pdftex.def Info: Graphics/moire/gratingfrequency.png used on input line
+ 550.
+(pdftex.def)             Requested size: 365.50655pt x 247.51244pt.
+
+<Graphics/moire/gratingphaseshift.png, id=152, 788.19469pt x 534.49687pt>
+File: Graphics/moire/gratingphaseshift.png Graphic file (type png)
+
+<use Graphics/moire/gratingphaseshift.png>
+Package pdftex.def Info: Graphics/moire/gratingphaseshift.png used on input lin
+e 558.
+(pdftex.def)             Requested size: 365.50655pt x 247.86154pt.
+ [31 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/moire/
+moire.png>] [32 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Grap
+hics/moire/moireenabled.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 201
+3/Manual/Graphics/moire/moireenabledandshader.png>] [33 <F:/DOCUMENTS/Onderzoek
+sprojecten/Software/FPS 2013/Manual/Graphics/moire/xgrating.png> <F:/DOCUMENTS/
+Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/moire/xgrating2.png>]
+<Graphics/help/request.png, id=163, 1044.90375pt x 712.91344pt>
+File: Graphics/help/request.png Graphic file (type png)
+
+<use Graphics/help/request.png>
+Package pdftex.def Info: Graphics/help/request.png used on input line 569.
+(pdftex.def)             Requested size: 365.50655pt x 249.38202pt.
+
+<Graphics/help/info.png, id=164, 785.93625pt x 532.23843pt>
+File: Graphics/help/info.png Graphic file (type png)
+
+<use Graphics/help/info.png>
+Package pdftex.def Info: Graphics/help/info.png used on input line 578.
+(pdftex.def)             Requested size: 365.50655pt x 247.52892pt.
+ [34 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/moire/
+gratingpoints.png>] [35 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Man
+ual/Graphics/moire/gratingresolution.png> <F:/DOCUMENTS/Onderzoeksprojecten/Sof
+tware/FPS 2013/Manual/Graphics/moire/gratingresolutionlow.png>] [36 <F:/DOCUMEN
+TS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/moire/gratingfrequency
+.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/moire
+/gratingphaseshift.png>] [37 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 201
+3/Manual/Graphics/help/request.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/
+FPS 2013/Manual/Graphics/help/info.png>]
+<Graphics/readsettings/example.png, id=178, 1126.2075pt x 714.41907pt>
+File: Graphics/readsettings/example.png Graphic file (type png)
+
+<use Graphics/readsettings/example.png>
+Package pdftex.def Info: Graphics/readsettings/example.png used on input line 6
+00.
+(pdftex.def)             Requested size: 365.50655pt x 231.85641pt.
+
+<Graphics/readsettings/measurement.png, id=179, 636.12656pt x 298.86656pt>
+File: Graphics/readsettings/measurement.png Graphic file (type png)
+
+<use Graphics/readsettings/measurement.png>
+Package pdftex.def Info: Graphics/readsettings/measurement.png used on input li
+ne 611.
+(pdftex.def)             Requested size: 365.50655pt x 171.71924pt.
+ [38] [39 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/r
+eadsettings/example.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Ma
+nual/Graphics/readsettings/measurement.png>]
+<Graphics/example/readparameters.png, id=186, 787.44188pt x 532.99126pt>
+File: Graphics/example/readparameters.png Graphic file (type png)
+
+<use Graphics/example/readparameters.png>
+Package pdftex.def Info: Graphics/example/readparameters.png used on input line
+ 637.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+
+<Graphics/example/planereference.png, id=187, 788.9475pt x 533.74406pt>
+File: Graphics/example/planereference.png Graphic file (type png)
+
+<use Graphics/example/planereference.png>
+Package pdftex.def Info: Graphics/example/planereference.png used on input line
+ 644.
+(pdftex.def)             Requested size: 365.50655pt x 247.27626pt.
+
+<Graphics/example/open3d.png, id=188, 787.44188pt x 532.99126pt>
+File: Graphics/example/open3d.png Graphic file (type png)
+
+<use Graphics/example/open3d.png>
+Package pdftex.def Info: Graphics/example/open3d.png used on input line 653.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+File: Graphics/example/open3d.png Graphic file (type png)
+ <use Graphics/example/open3d.png>
+Package pdftex.def Info: Graphics/example/open3d.png used on input line 661.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+ [40]
+[41 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/example
+/readparameters.png> <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual
+/Graphics/example/planereference.png>]
+<Graphics/example/patroon.png, id=195, 787.44188pt x 532.99126pt>
+File: Graphics/example/patroon.png Graphic file (type png)
+
+<use Graphics/example/patroon.png>
+Package pdftex.def Info: Graphics/example/patroon.png used on input line 671.
+(pdftex.def)             Requested size: 365.50655pt x 247.39107pt.
+
+<Graphics/example/measurement.png, id=196, 624.83438pt x 305.64188pt>
+File: Graphics/example/measurement.png Graphic file (type png)
+
+<use Graphics/example/measurement.png>
+Package pdftex.def Info: Graphics/example/measurement.png used on input line 68
+0.
+(pdftex.def)             Requested size: 365.50655pt x 178.79277pt.
+ [42 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/exampl
+e/open3d.png>] [43 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/G
+raphics/example/patroon.png>]
+<Graphics/example/measurementsaveenabled.png, id=204, 846.16125pt x 607.51968pt
+>
+File: Graphics/example/measurementsaveenabled.png Graphic file (type png)
+ <use Graphics/example/measurementsaveenabled.png>
+Package pdftex.def Info: Graphics/example/measurementsaveenabled.png used on in
+put line 698.
+(pdftex.def)             Requested size: 365.50655pt x 262.41492pt.
+
+<Graphics/example/savedimages.png, id=205, 1445.4pt x 699.36281pt>
+File: Graphics/example/savedimages.png Graphic file (type png)
+
+<use Graphics/example/savedimages.png>
+Package pdftex.def Info: Graphics/example/savedimages.png used on input line 70
+6.
+(pdftex.def)             Requested size: 365.50655pt x 176.8465pt.
+ [44 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Manual/Graphics/exampl
+e/measurement.png>] [45 <F:/DOCUMENTS/Onderzoeksprojecten/Software/FPS 2013/Man
+ual/Graphics/example/measurementsaveenabled.png> <F:/DOCUMENTS/Onderzoeksprojec
+ten/Software/FPS 2013/Manual/Graphics/example/savedimages.png>]
+("F:\DOCUMENTS\Onderzoeksprojecten\Software\FPS 2013\Manual\Manual.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2928 strings out of 493921
+ 44713 string characters out of 3144854
+ 95424 words of memory out of 3000000
+ 6136 multiletter control sequences out of 15000+200000
+ 10111 words of font info for 38 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,6n,24p,293b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Manual.pdf (45 pages, 13118312 bytes).
+PDF statistics:
+ 231 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+
