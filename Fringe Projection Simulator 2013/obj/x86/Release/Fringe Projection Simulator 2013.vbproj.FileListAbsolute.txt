@@ -1,0 +1,35 @@
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\AllT.txt
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\FST.txt
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\3Dmodels\Realtest_R6_smooth.STL
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\3Dmodels\Realtest_R6_smooth_ref.STL
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\MeasurementFiles\measurement_Ball_rev2-02-2013.fpss
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\MeasurementFiles\measurement_Ref_rev2-02-2013.fpss
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\FS_1a.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\FS_1d.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\FS_all.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\FS_all_rev.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\FS_all_v22-09-2012.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\FS_all_v26-11-2012.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\measurement1.fpss
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Shaders\VS_all.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Fringe Projection Simulator 2013.exe
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Fringe Projection Simulator 2013.pdb
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Fringe Projection Simulator 2013.xml
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Artesis_button001.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\OpenTK.Compatibility.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\OpenTK.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\OpenTK.GLControl.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Release\Tao.FreeGlut.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.Form1.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.frmAbout.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.frmBeamerParameters.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.frmCameraParameters.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.frmGratingParameters.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.frmPhaseShift.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.frmProgress.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe_Projection_Simulator_2013.Resources.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe Projection Simulator 2013.vbproj.GenerateResource.Cache
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe Projection Simulator 2013.exe
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe Projection Simulator 2013.xml
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe Projection Simulator 2013.pdb
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Release\Fringe Projection Simulator 2013.vbprojResolveAssemblyReference.cache

@@ -3,7 +3,7 @@
 	<header>This is a Fringe Projection Simulator Settings File for ACER projector and AVT pike Camera made by Bart Ribbens</header>
 	<description>This file contains the settings for a single temporal measurements: Situation 1a</description>
 	<date>22 October 2013</date>
-	<modelpath>F:\DOCUMENTS\Onderzoeksprojecten\Software\FPS 2013\VB 2013\Fringe Projection Simulator 2013\Fringe Projection Simulator 2013\bin\Debug\3Dmodels\Realtest_R6_smooth.STL</modelpath>
+	<modelpath>F:\DOCUMENTS\Onderzoeksprojecten\Software\FPS 2013\VB 2013\Fringe Projection Simulator 2013\Fringe Projection Simulator 2013\bin\Debug\3Dmodels\Realtest_R6_smooth_ref.STL</modelpath>
 	<beamer>
 		<location>
 			<x>0.0</x>

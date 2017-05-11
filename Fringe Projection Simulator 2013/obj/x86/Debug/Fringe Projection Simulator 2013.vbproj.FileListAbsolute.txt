@@ -68,3 +68,73 @@ F:\DOCUMENTS\Onderzoeksprojecten\Github\FPS\FringeProjectionSimulator\Fringe Pro
 F:\DOCUMENTS\Onderzoeksprojecten\Github\FPS\FringeProjectionSimulator\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmProgress.resources
 F:\DOCUMENTS\Onderzoeksprojecten\Github\FPS\FringeProjectionSimulator\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.Resources.resources
 F:\DOCUMENTS\Onderzoeksprojecten\Github\FPS\FringeProjectionSimulator\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.vbproj.GenerateResource.Cache
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.vbprojResolveAssemblyReference.cache
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.Form1.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmAbout.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmBeamerParameters.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmCameraParameters.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmGratingParameters.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmPhaseShift.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmProgress.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.Resources.resources
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.vbproj.GenerateResource.Cache
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.exe
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.xml
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.pdb
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\AllT.txt
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\FST.txt
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\3Dmodels\Realtest_R6_smooth.STL
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\3Dmodels\Realtest_R6_smooth_ref.STL
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\MeasurementFiles\measurement_Ball_rev2-02-2013.fpss
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\MeasurementFiles\measurement_Ref_rev2-02-2013.fpss
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_1a.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_1d.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all_rev.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all_v22-09-2012.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all_v26-11-2012.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\measurement1.fpss
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Shaders\VS_all.glsl
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Fringe Projection Simulator 2013.exe
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Fringe Projection Simulator 2013.pdb
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Fringe Projection Simulator 2013.xml
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Artesis_button001.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\OpenTK.Compatibility.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\OpenTK.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\OpenTK.GLControl.dll
+C:\DOCUMENTS\FringeProjectionSimulator-master\FringeProjectionSimulator-master\Fringe Projection Simulator 2013\bin\Debug\Tao.FreeGlut.dll
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.exe
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.xml
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.pdb
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\AllT.txt
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\FST.txt
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\3Dmodels\Realtest_R6_smooth.STL
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\3Dmodels\Realtest_R6_smooth_ref.STL
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\MeasurementFiles\measurement_Ball_rev2-02-2013.fpss
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\MeasurementFiles\measurement_Ref_rev2-02-2013.fpss
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_1a.glsl
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_1d.glsl
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all.glsl
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all_rev.glsl
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all_v22-09-2012.glsl
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\FS_all_v26-11-2012.glsl
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\measurement1.fpss
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Shaders\VS_all.glsl
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Fringe Projection Simulator 2013.exe
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Fringe Projection Simulator 2013.pdb
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Fringe Projection Simulator 2013.xml
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Artesis_button001.dll
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\OpenTK.Compatibility.dll
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\OpenTK.dll
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\OpenTK.GLControl.dll
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\bin\Debug\Tao.FreeGlut.dll
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.vbprojResolveAssemblyReference.cache
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.Form1.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmAbout.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmBeamerParameters.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmCameraParameters.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmGratingParameters.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmPhaseShift.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.frmProgress.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe_Projection_Simulator_2013.Resources.resources
+F:\Onderzoeksprojecten\Github repositories\Fringe Projection Simulator 2013\obj\x86\Debug\Fringe Projection Simulator 2013.vbproj.GenerateResource.Cache

@@ -2667,7 +2667,7 @@ Public Class OpenGLRev01
         Public Shared Sub oSetBlending(ByVal blnBlending As Boolean)
             If blnBlending = True Then
                 GL.Enable(GraphTK.EnableCap.Blend)
-                GL.BlendFunc(GraphTK.BlendingFactorSrc.SrcAlpha, GraphTK.BlendingFactorDest.OneMinusSrcAlpha)
+                GL.BlendFunc(OpGL.BlendingFactorSrc.SrcAlpha, OpGL.BlendingFactorDest.OneMinusSrcAlpha)
             Else
                 GL.Disable(GraphTK.EnableCap.Blend)
             End If

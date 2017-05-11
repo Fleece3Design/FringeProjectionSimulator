@@ -248,7 +248,7 @@ Public Class Form1
     End Function
     Sub Initialize()
         TSL1.Text = "©by Bart Ribbens 2013"
-        TSL2.Text = "Version 14-03-2012" '"No file location selected"
+        TSL2.Text = "Version 2-05-2017" '"No file location selected"
         TSL3.Text = "No measurement map selected"
         tss2.Visible = False
         TSL3.Visible = False

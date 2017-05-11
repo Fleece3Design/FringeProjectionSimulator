@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<fringesettings>
+	<header>This is a Fringe Projection Simulator Settings File for ACER projector and AVT pike Camera made by Bart Ribbens</header>
+	<description>This file contains the settings for a single temporal measurements: Situation 1a</description>
+	<date>22 October 2013</date>
+	<modelpath>F:\DOCUMENTS\Onderzoeksprojecten\Software\FPS 2013\VB 2013\Fringe Projection Simulator 2013\Fringe Projection Simulator 2013\bin\Debug\3Dmodels\Realtest_R6_smooth_ref.STL</modelpath>
+	<beamer>
+		<location>
+			<x>0.0</x>
+			<y>0.0</y>
+			<z>50.0</z>
+		</location>
+		<target>
+			<x>0.0</x>
+			<y>0.0</y>
+			<z>0.0</z>
+		</target>
+		<gratingresolution>
+			<x>20000</x>
+			<y>20000</y>
+		</gratingresolution>
+		<lens>diverging</lens>
+		<parameters>
+			<fov>0.497479623</fov>
+			<aspectratio>1.33333333333333</aspectratio>
+			<frequency>60.0</frequency>
+			<phaseshift>0.0</phaseshift>
+		</parameters>
+		<grating>
+			<x1>-5.08</x1>
+			<y1>1.14</y1>
+			<z1>30.0</z1>
+			<x2>5.08</x2>
+			<y2>8.76</y2>
+			<z2>30.0</z2>
+		</grating>
+	</beamer>
+	<camera>
+		<location>
+			<x>11.64686</x>
+			<y>12.375</y>
+			<z>43.46666</z>
+		</location>
+		<target>
+			<x>0.0</x>
+			<y>12.375</y>
+			<z>0.0</z>
+		</target>
+		<gratingresolution>
+			<x>20000</x>
+			<y>20000</y>
+		</gratingresolution>
+		<lens>Diverging</lens>
+		<parameters>
+			<fov>0.442628885</fov>
+			<aspectratio>1.33333333333333</aspectratio>
+			<near>1</near>
+			<far>1000</far>
+			<frequency>60.0</frequency>
+			<phaseshift>0.0</phaseshift>
+		</parameters>
+		<grating>
+			<x1>3.417905</x1>
+			<y1>-3.375</y1>
+			<z1>30.14246</z1>
+			<x2>12.11124</x2>
+			<y2>3.375</y2>
+			<z2>27.81309</z2>
+		</grating>
+	</camera>
+	<measurement>
+		<type>fringe</type>
+			<mappath>C:\Users\Bart\Desktop\Measurements\Simulations 02-02-2013 ref f5-30 400steps\</mappath>
+			<filename>M001_</filename>
+			<beamer>
+				<blackout>1</blackout>
+				<steps>400</steps>
+				<grating>
+					<frequency>
+						<start>5.0</start>
+						<stop>30.0</stop>
+					</frequency>
+					<phase>
+						<start>0.0</start>
+						<stop>0.0</stop>
+					</phase>
+				</grating>
+			</beamer>
+	</measurement>
+</fringesettings>
